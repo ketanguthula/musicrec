@@ -1,0 +1,9 @@
+pandas
+numpy
+spotipy
+scikit-learn
+gradio
+difflib
+os
+matplotlib
+seaborn
